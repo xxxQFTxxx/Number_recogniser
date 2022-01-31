@@ -1,2 +1,2 @@
 # Number_recogniser
- From webcam
+Recognizes handwritten digits from webcam-feed and detects the what number is written
